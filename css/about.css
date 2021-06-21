@@ -1,6 +1,5 @@
 @import url(/css/styles.css);
 
-#profile-photo{
-    height: 50%;
-
+.container{
+    text-align: center;
 }

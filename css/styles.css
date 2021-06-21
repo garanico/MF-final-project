@@ -2,10 +2,24 @@ body{
     background-color:antiquewhite
 }
 
+/*Font Styling*/
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+
+h2{
+    font-family: 'Pinyon Script', cursive;
+}
+
+p{
+    font-size: 16;
+}
+
 /* Nav Bar Styling*/
 .navbar-brand{
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
 }
+
 
 /* Sub Page Formatting*/
 .page-content{
