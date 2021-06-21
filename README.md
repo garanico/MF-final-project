@@ -12,7 +12,7 @@
 -Create a repository for your portfolio<br>
 -Host your portfolio at [username].github.io<br>
 
-# Design Requirements
+## Design Requirements
 -Nav/Navbar<br>
 -Jumbotron or Carousel<br>
 -Accordion or thumbnails<br>
