@@ -1,11 +1,12 @@
 body{
     background-color:#FEF1E4;
+	height:2000px;
 }
 
 /*Font Styling*/
 h1{
     font-family: 'Abril Fatface', cursive;
-	color: #14A2B8;
+	color: #a44a3f;
 }
 
 h2{
@@ -24,6 +25,12 @@ p{
 /* Button + Links Styling */
 .btn{
 	border-width: 3px;
+	border-color: #68a691
+}
+
+.btn:hover{
+	background: #68a691;
+	border-color: #68a691
 }
 
 a:visited{
@@ -40,7 +47,12 @@ a:visited{
 
 /* Footer Styling */
 
+#footer{
+	background-color: #68a691;
+	padding-top:3px;
+	padding-bottom: 3px;
 
+}
 .bottom_border { 
 	border-bottom:1px solid #db1102; 
 	padding-bottom:20px;
