@@ -6,8 +6,6 @@ h1{
 
 .contact-form{
     padding: 10px;
-}
-
-.bg-pink{
-    background-color: pink;
+    border-color: #a44a3f;
+    border-width: 3px;
 }

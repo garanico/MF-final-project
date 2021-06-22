@@ -30,7 +30,7 @@ p{
 
 .btn:hover{
 	background: #68a691;
-	border-color: #68a691
+	border-color: #68a691;
 }
 
 a:visited{
@@ -39,18 +39,20 @@ a:visited{
 
 }
 
-/* Sub Page Formatting*/
-.page-content{
-    text-align: center;
+/* Rachel Section Stylling*/
+#rachel{
+    padding-top: 30px;
+	padding-bottom: 10px;
+
 }
 
 
 /* Footer Styling */
 
 #footer{
-	background-color: #68a691;
 	padding-top:3px;
 	padding-bottom: 3px;
+	background: #68a691;
 
 }
 .bottom_border { 
