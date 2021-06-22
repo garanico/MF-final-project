@@ -5,6 +5,7 @@ body{
 /*Font Styling*/
 h1{
     font-family: 'Abril Fatface', cursive;
+	color: #14A2B8;
 }
 
 h2{
@@ -20,6 +21,16 @@ p{
     font-family: 'Open Sans', sans-serif;
 }
 
+/* Button + Links Styling */
+.btn{
+	border-width: 3px;
+}
+
+a:visited{
+	color: #000000
+	font-weight: bold;
+
+}
 
 /* Sub Page Formatting*/
 .page-content{
