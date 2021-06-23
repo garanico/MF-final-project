@@ -1,6 +1,7 @@
 body{
     background-color:#FEF1E4;
-	height:2000px;
+	height: 1200px;
+
 }
 
 /*Font Styling*/
@@ -10,7 +11,7 @@ h1{
 }
 
 h2{
-    font-family: 'Pinyon Script', cursive;
+    font-family: 'Abril Fatface', cursive;
 }
 
 p{
@@ -33,18 +34,38 @@ p{
 	border-color: #68a691;
 }
 
+
 a:visited{
 	color: #000000
 	font-weight: bold;
+}
 
+/* Badge Section Styling */
+#badge{
+	height: 250px;
+	text-align: center;	
+	background-color:#68a691;
+    color:#FEF1E4;
+}
+.border-color{
+	border-color: #68a691
+	border-width: 50px;
 }
 
 /* Rachel Section Stylling*/
 #rachel{
     padding-top: 30px;
 	padding-bottom: 10px;
-
 }
+
+.category-link{
+		color: #FEF1E4; 
+	}
+
+.category-link:a:visited{
+		color: #FEF1E4;
+
+	}
 
 
 /* Footer Styling */
@@ -52,7 +73,7 @@ a:visited{
 .footer{
 	padding-top:3px;
 	padding-bottom: 3px;
-	background: #68a691;
+	background: #a44a3f;
 
 }
 .bottom_border { 
