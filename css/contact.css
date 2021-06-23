@@ -5,7 +5,13 @@ h1{
 }
 
 .contact-form{
-    padding: 10px;
-    border-color: #a44a3f;
-    border-width: 3px;
+    padding: 20px;
+    
 }
+
+.color{
+    border-color: #68a691;
+    border-width: 10px;
+  
+}
+
