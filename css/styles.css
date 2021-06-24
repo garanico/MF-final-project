@@ -27,17 +27,21 @@ p{
 /* Button + Links Styling */
 .btn{
 	border-width: 3px;
-	border-color: #68a691
+    background-color:#FEF1E4;
+	border-color:#FEF1E4;
+
 }
 
 .btn:hover{
 	background: #68a691;
 	border-color: #68a691;
+    background-color:#a44a3f;
+	color: #FEF1E4;
 }
 
 
 a:visited{
-	color: #000000
+	color: #000000;
 	font-weight: bold;
 }
 

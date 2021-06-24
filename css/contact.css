@@ -4,12 +4,9 @@ h1{
     text-align: center;
 }
 
-#contact-form{
-    border-color: #68a691;
-    border-width: 10px;
-}
 .contact-form{
     padding: 20px;
+    background-color: #68a691;
     
 }
 
