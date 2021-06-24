@@ -1,7 +1,7 @@
 body{
     background-color:#FEF1E4;
-	height: 1200px;
-
+	
+	
 }
 
 /*Font Styling*/
@@ -43,13 +43,13 @@ a:visited{
 /* Badge Section Styling */
 #badge{
 	height: 250px;
-	text-align: center;	
+	text-align: center;
 	background-color:#68a691;
     color:#FEF1E4;
 }
-.border-color{
-	border-color: #68a691
-	border-width: 50px;
+/* .border-color{ */
+	/* border-color: #68a691 */
+	/* border-width: 50px; */
 }
 
 /* Rachel Section Stylling*/
