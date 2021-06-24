@@ -64,7 +64,10 @@ a:visited{
 		color: #FEF1E4;
 
 	}
-
+/* Spacing between sections */
+.top-buffer{
+	margin-top: 30px;
+}
 
 /* Footer Styling */
 
