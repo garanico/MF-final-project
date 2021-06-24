@@ -28,17 +28,16 @@ p{
 .btn{
 	border-width: 3px;
     background-color:#FEF1E4;
-	border-color:#FEF1E4;
+	border-color:#68a691;
 
 }
 
 .btn:hover{
-	background: #68a691;
+	background: #FEF1E4;
 	border-color: #68a691;
-    background-color:#a44a3f;
-	color: #FEF1E4;
+    background-color: #68a691;
+	color: #68a691;
 }
-
 
 a:visited{
 	color: #000000;
@@ -51,11 +50,6 @@ a:visited{
 	text-align: center;
 	background-color:#68a691;
     color:#FEF1E4;
-}
-/* .border-color{ */
-	/* border-color: #68a691 */
-	/* border-width: 50px; */
-}
 
 /* Rachel Section Styling*/
 
@@ -82,7 +76,6 @@ a:visited{
 
 }
 .bottom_border { 
-	border-bottom:1px solid #db1102; 
 	padding-bottom:20px;
 }
 .foote_bottom_ul_amrc {
