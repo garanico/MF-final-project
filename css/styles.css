@@ -53,7 +53,6 @@ a:visited{
 
 /* Rachel Section Styling*/
 
-
 .category-link{
 		color: #FEF1E4; 
 	}
@@ -72,7 +71,7 @@ a:visited{
 .footer {
 	padding-top: 3px;
 	padding-bottom: 3px;
-	background: #a44a3f;
+	background-color: #a44a3f;
 }
 
 .bottom_border { 
@@ -80,7 +79,7 @@ a:visited{
 }
 
 .links {
-	list-style-type:none;
+	text-decoration: none;
 	padding: 0px;
 	display: table;
 	margin-top: 10px;
