@@ -23,4 +23,7 @@
 -Customized Contact Form<br>
 
 ## Citations
-[Bootstrap Starter Template](https://getbootstrap.com/docs/4.5/getting-started/introduction/#starter-template)
+[Bootstrap Starter Template](https://getbootstrap.com/docs/4.5/getting-started/introduction/#starter-template)<br>
+[Start Bootstrap | Bootstap 4 Gallery with Image Thumbnails](https://startbootstrap.com/snippets/thumbnail-gallery)<br>
+[Webenlance | Footer Bootstrap 4] (https://bootsnipp.com/snippets/bxDBA)
+
