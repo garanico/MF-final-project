@@ -53,30 +53,45 @@ a:visited{
 
 /* Rachel Section Styling*/
 
-.category-link{
-		color: #FEF1E4; 
-	}
+.category-link {
+	color: #FEF1E4; 
+}
 
-.category-link:a:visited{
-		color: #FEF1E4;
+.category-link:a:visited {
+	color: #FEF1E4;
 
-	}
+}
+
 /* Spacing between sections */
-.top-buffer{
+.top-buffer {
 	margin-top: 30px;
 }
 
 /* Footer Styling */
 
-.footer {
-	padding-top: 3px;
+.footer { 
+	width: 100%; 
+	background-color:#a44a3f; 
+	padding-top: 3px; 
 	padding-bottom: 3px;
-	background-color: #a44a3f;
 }
 
-.bottom_border { 
-	border-bottom:1px solid #db1102; 
-	padding-bottom:20px;
+.links {
+  margin: 0px; 
+  text-decoration: none; 
+  padding: 0px;
+}
+
+.links p { 
+  display: table; 
+}
+
+.links li a:hover { 
+  text-decoration: none;
+}
+
+.links li i { 
+  margin-top: 5px;
 }
 
 .links {
@@ -90,23 +105,34 @@ a:visited{
 }
 
 .links li { 
-	display: inline;
-
+  display: inline;
 }
 
 .links li a { 
-	color:#000000; 
-	margin:0 12px;
-}
+  color: #000000; 
+  margin: 0 12px;}
 
 .social-links { 
-	display:table; 
-	margin:15px auto 0 auto; 
-	list-style-type: none;  
+  display: table; 
+  margin: 15px auto 0px auto; 
+  list-style-type: none;  
 }
 
 .social-links li { 
-	padding-left: 20px; 
-	padding-top: 10px; 
-	float: left; 
+  padding-left: 20px; 
+  padding-top: 10px; 
+  float: left; 
+}
+
+.social-links li a { 
+  color: #000000; 
+  border: 1px solid #000000; 
+  padding: 8px;
+  border-radius: 50%;
+}
+
+.social-links li i {  
+  width: 20px; 
+  height: 20px; 
+  text-align: center;
 }
